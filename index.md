@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## The chain project
 
 You can use the [editor on GitHub](https://github.com/MPAARL/Test_Repository/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Хто працює над цим проєктом?
+[Марко Пальчевський](https://www.instagram.com/mrqsyaka/)
+[Марта Купчак](https://www.instagram.com/k.mmarta/)
+[Маркіян Папроцький](https://www.instagram.com/markiyan_paprotskiy/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
