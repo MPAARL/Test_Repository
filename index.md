@@ -3,11 +3,8 @@
 
 Хто працює над цим проєктом?
 
-[Марко Пальчевський](https://www.instagram.com/mrqsyaka/): "The chain - це веб-застосунок, де ви зможете поглибити знання з цікавих для вас тем, навчаючись англійській"
-
-[Марта Купчак](https://www.instagram.com/k.mmarta/): "Мені не подобалася ідея ділити опис з самого початку"
-
-[Маркіян Папроцький](https://www.instagram.com/markiyan_paprotskiy/): "А мені подобається ця ідея, бо наш проект і так імба. А так він буде ще й відрізнятися від інших"
-
-
-
+[Марко Пальчевський](https://www.instagram.com/mrqsyaka/)
+[Марта Купчак](https://www.instagram.com/k.mmarta/)
+[Маркіян Папроцький](https://www.instagram.com/markiyan_paprotskiy/)
+[Юля Чиж](https://www.instagram.com/_julia_chyzh_/)
+[Владислав Смага](https://www.instagram.com/vladyslav.smaha/)
